@@ -1,0 +1,639 @@
+,0,1
+AboveGradeFinishedArea,8019,4983
+AboveGradeFinishedAreaSource,Agent,Agent
+AboveGradeFinishedAreaUnits,Acres,Square Feet
+AccessCode,g3x8,7nen
+AccessibilityFeatures,,
+AdditionalParcelsDescription,,[]
+AdditionalParcelsYN,False,True
+AnchorsCoTenants,"['Gleason, Sanford and Waters', 'Grady Group', 'Medhurst Inc', 'Stehr-Hilll']","['Bode-Boyle', 'Gibson-Friesen', 'Bednar Inc', 'Maggio-Krajcik', 'Monahan, Aufderhar and Tremblay']"
+Appliances,"['Dishwasher', 'Disposal', 'Oven']",['Dishwasher']
+ApprovalStatus,,
+ArchitecturalStyle,"['beatae', 'perferendis', 'voluptatem', 'ipsa', 'ipsam', 'adipisci']","['asperiores', 'dolorum', 'necessitatibus', 'eius', 'repellendus']"
+AssociationAmenities,,['Pool']
+AssociationFee,253,50
+AssociationFee2,93,170
+AssociationFee2Frequency,Daily,Daily
+AssociationFeeFrequency,Seasonal,Bi-Monthly
+AssociationFeeIncludes,"['Sewer', 'Pest Control', 'Utilities', 'Earthquake Insurance', 'Water', 'Gas', 'Maintenance Grounds', 'Maintenance Exterior', 'Snow Removal', 'Insurance', 'Security']","['Maintenance Exterior', 'Earthquake Insurance', 'Security', 'Utilities', 'Pest Control', 'Gas', 'Insurance', 'Maintenance Grounds', 'Sewer']"
+AssociationName,id,iste
+AssociationName2,Ondricka and Sons,Abbott-Veum
+AssociationPhone,1-914-415-3494,(668) 767-1969
+AssociationPhone2,(310) 727-0122,(408) 232-8362
+AssociationYN,False,True
+AttachedGarageYN,True,False
+AvailabilityDate,2018-06-30T13:39:22.490Z,2018-05-16T01:15:43.369Z
+Basement,,
+BathroomsFull,2,6
+BathroomsHalf,4,4
+BathroomsOneQuarter,3,2
+BathroomsPartial,9,10
+BathroomsThreeQuarter,2,4
+BathroomsTotalDecimal,9.25,7.5
+BathroomsTotalInteger,14,12
+BedroomsPossible,7,6
+BedroomsTotal,2,3
+BelowGradeFinishedArea,3579,472
+BelowGradeFinishedAreaSource,Estimate,Assessor
+BelowGradeFinishedAreaUnits,Acres,Acres
+BodyType,,
+BuilderModel,Sleek Concrete Pants,Small Wooden Car
+BuilderName,Langosh Group,"Kuvalis, Rau and Larkin"
+BuildingAreaSource,Estimate,Agent
+BuildingAreaTotal,9071755,1878524
+BuildingAreaUnits,Acres,Square Feet
+BuildingFeatures,['Concierge Service'],"['Gym', 'Patio/Rooftop Deck', 'Cafeteria', 'Lounge', 'Concierge Service']"
+BuildingName,Jamil Jaskolski Bldg,Carol Parker Bldg
+BusinessName,Lang and Sons,Grant-Nienow
+BusinessType,Wallpaper,Agriculture
+BuyerAgencyCompensation,,
+BuyerAgencyCompensationType,,
+BuyerAgentAOR,,
+BuyerAgentCellPhone,,
+BuyerAgentDesignation,,
+BuyerAgentDirectPhone,,
+BuyerAgentEmail,,
+BuyerAgentFax,,
+BuyerAgentFirstName,,
+BuyerAgentFullName,,
+BuyerAgentHomePhone,,
+BuyerAgentKey,,
+BuyerAgentKeyNumeric,,
+BuyerAgentLastName,,
+BuyerAgentMiddleName,,
+BuyerAgentMlsId,,
+BuyerAgentNamePrefix,,
+BuyerAgentNameSuffix,,
+BuyerAgentOfficePhone,,
+BuyerAgentOfficePhoneExt,,
+BuyerAgentPager,,
+BuyerAgentPreferredPhone,,
+BuyerAgentPreferredPhoneExt,,
+BuyerAgentStateLicense,,
+BuyerAgentTollFreePhone,,
+BuyerAgentURL,,
+BuyerAgentVoiceMail,,
+BuyerAgentVoiceMailExt,,
+BuyerFinancing,,
+BuyerOfficeAOR,,
+BuyerOfficeEmail,,
+BuyerOfficeFax,,
+BuyerOfficeKey,,
+BuyerOfficeKeyNumeric,,
+BuyerOfficeMlsId,,
+BuyerOfficeName,,
+BuyerOfficePhone,,
+BuyerOfficePhoneExt,,
+BuyerOfficeURL,,
+BuyerTeamKey,,
+BuyerTeamKeyNumeric,,
+BuyerTeamName,,
+CableTvExpense,,
+CancelationDate,,
+CapRate,,
+CarportSpaces,3,3
+CarportYN,True,False
+CarrierRoute,,
+City,Mission District,Mission Dolores
+CityRegion,Paucekborough,Carolynemouth
+CloseDate,2017-11-11T22:12:46.185Z,2017-06-21T21:58:01.116Z
+ClosePrice,,
+CoBuyerAgentAOR,,
+CoBuyerAgentCellPhone,,
+CoBuyerAgentDesignation,,
+CoBuyerAgentDirectPhone,,
+CoBuyerAgentEmail,,
+CoBuyerAgentFax,,
+CoBuyerAgentFirstName,,
+CoBuyerAgentFullName,,
+CoBuyerAgentHomePhone,,
+CoBuyerAgentKey,,
+CoBuyerAgentKeyNumeric,,
+CoBuyerAgentLastName,,
+CoBuyerAgentMiddleName,,
+CoBuyerAgentMlsId,,
+CoBuyerAgentNamePrefix,,
+CoBuyerAgentNameSuffix,,
+CoBuyerAgentOfficePhone,,
+CoBuyerAgentOfficePhoneExt,,
+CoBuyerAgentPager,,
+CoBuyerAgentPreferredPhone,,
+CoBuyerAgentPreferredPhoneExt,,
+CoBuyerAgentStateLicense,,
+CoBuyerAgentTollFreePhone,,
+CoBuyerAgentURL,,
+CoBuyerAgentVoiceMail,,
+CoBuyerAgentVoiceMailExt,,
+CoBuyerOfficeAOR,,
+CoBuyerOfficeEmail,,
+CoBuyerOfficeFax,,
+CoBuyerOfficeKey,,
+CoBuyerOfficeKeyNumeric,,
+CoBuyerOfficeMlsId,,
+CoBuyerOfficeName,,
+CoBuyerOfficePhone,,
+CoBuyerOfficePhoneExt,,
+CoBuyerOfficeURL,,
+CoListAgentAOR,,
+CoListAgentCellPhone,,
+CoListAgentDesignation,,
+CoListAgentDirectPhone,,
+CoListAgentEmail,,
+CoListAgentFax,,
+CoListAgentFirstName,,
+CoListAgentFullName,,
+CoListAgentHomePhone,,
+CoListAgentKey,,
+CoListAgentKeyNumeric,,
+CoListAgentLastName,,
+CoListAgentMiddleName,,
+CoListAgentMlsId,,
+CoListAgentNamePrefix,,
+CoListAgentNameSuffix,,
+CoListAgentOfficePhone,,
+CoListAgentOfficePhoneExt,,
+CoListAgentPager,,
+CoListAgentPreferredPhone,,
+CoListAgentPreferredPhoneExt,,
+CoListAgentStateLicense,,
+CoListAgentTollFreePhone,,
+CoListAgentURL,,
+CoListAgentVoiceMail,,
+CoListAgentVoiceMailExt,,
+CoListOfficeAOR,,
+CoListOfficeEmail,,
+CoListOfficeFax,,
+CoListOfficeKey,,
+CoListOfficeKeyNumeric,,
+CoListOfficeMlsId,,
+CoListOfficeName,,
+CoListOfficePhone,,
+CoListOfficePhoneExt,,
+CoListOfficeURL,,
+CommonWalls,"['1 Common Wall', '2+ Common Walls', 'No One Below', 'End Unit']","['End Unit', 'No One Above']"
+CommunityFeatures,"['ut', 'illum', 'tenetur', 'occaecati', 'iusto']","['quasi', 'eaque', 'fugiat', 'doloremque', 'ea', 'in', 'tempore']"
+ConcessionComments,Aspernatur repellat ut est debitis ut. Et ea non tenetur. Dolor eaque dolores ad corporis illo. Omnis in quibusdam in et debitis et ipsam sunt. Doloribus voluptatem similique est ex ipsam minus sed iste.,Sed magnam quas aut quaerat ea. Quaerat quae itaque non culpa est veniam. Qui quis libero officiis placeat iure sit similique aut. Illo numquam quo consequatur sit magnam tenetur ex.
+Concessions,,
+ConcessionsAmount,,
+ConcessionsComments,,
+ConstructionMaterials,['Brick'],['Brick']
+ContinentRegion,,
+Contingency,Sed porro incidunt rerum ipsa. Beatae similique sit molestias eum sit molestiae. Est neque qui repudiandae accusantium maiores qui exercitationem.,Nobis dolor saepe velit sit voluptatum. Quam suscipit aut rem qui repudiandae. Fuga autem dolores ut quae dolorem rerum. Assumenda dicta numquam in sint. Enim et doloribus aliquid.
+ContingentDate,2017-11-21T14:16:56.954Z,2018-03-11T21:06:16.282Z
+ContractStatusChangeDate,2018-04-19T09:24:52.807Z,2018-01-10T18:13:48.598Z
+Cooling,,
+CoolingYN,False,True
+Coordinates,"[-122.4203009, 37.76675929]","[-122.4217545, 37.76670432]"
+CopyrightNotice,"Eum harum doloremque amet molestias non ea. Maxime enim suscipit eaque necessitatibus ullam autem. Iste adipisci facere occaecati unde voluptatem exercitationem sed. Est hic suscipit ex voluptates molestiae tempore possimus.
+ 	Nobis facilis eos atque. Expedita aut similique laborum possimus animi officiis. In harum ea accusamus magni voluptatem.","Exercitationem praesentium a qui. Tenetur sit excepturi rerum fugit. Distinctio consequatur commodi iusto debitis at quod labore autem. Et quo nihil corporis consectetur consequatur deleniti.
+ 	Error voluptas ut itaque soluta. Ea incidunt dolorem iure necessitatibus. Debitis consequatur quia quos."
+Country,US,US
+CountryRegion,,
+CountyOrParish,San Francisco Co.,San Francisco Co.
+CoveredSpaces,3,3
+CropsIncludedYN,,
+CrossStreet,,
+CultivatedArea,,
+CumulativeDaysOnMarket,,
+CurrentFinancing,"['Assumed', 'Cash', 'Contract', 'Conventional', 'FHA']",
+CurrentUse,,
+DOH1,,
+DOH2,,
+DOH3,,
+DaysOnMarket,160,196
+DevelopmentStatus,,
+DirectionFaces,North-East,East
+Directions,"Neque accusantium necessitatibus eum earum. Illo suscipit quia aliquam pariatur. Ut quasi ut harum. Id qui et ab dolorem alias maxime omnis in.
+ 	Quo et at sed debitis laborum sit asperiores in. Et atque consequatur et consequatur fugit ut et. Quasi est itaque rerum deleniti delectus earum ab.","Quisquam animi beatae velit eius et omnis. Nihil dolores velit nulla beatae et. Tenetur quis sequi ea quisquam qui nihil voluptas. Sapiente ut tempora dolorum dolores. Vitae modi sit quibusdam vel.
+ 	Nihil laboriosam totam repellat perspiciatis reprehenderit voluptatem omnis. Quis voluptas numquam in. Molestiae hic et neque consequuntur quibusdam."
+Disclaimer,"Soluta dolore dolorem vitae omnis vel. Placeat et molestiae sint molestiae voluptatem dolore. Necessitatibus ut esse voluptatem animi maxime qui omnis. Sit rerum repellendus accusantium ut eius similique dolorem. Dolorum eum magnam tenetur cumque repellendus.
+ 	Itaque corrupti quia quasi recusandae voluptas alias. Odio rerum totam at pariatur. Eligendi officia possimus quod rem voluptas voluptatum officia quo.","Aut iusto architecto sed maiores mollitia id blanditiis. Assumenda praesentium vel ex praesentium laudantium perferendis animi. Omnis hic deleniti ut sunt. Et error veniam facilis ut inventore dolorem.
+ 	Fugit ab impedit atque ut voluptatem voluptatem est. Reprehenderit maiores aliquam ipsum expedita nostrum. Ipsa quidem aliquid ut consequatur minima velit odio aliquam. Deserunt omnis ea alias vitae et voluptatem accusamus accusamus. Ut temporibus et sint sint adipisci nihil velit."
+Disclosures,,
+DistanceToBusComments,,
+DistanceToBusNumeric,,
+DistanceToBusUnits,,
+DistanceToElectricComments,,
+DistanceToElectricNumeric,,
+DistanceToElectricUnits,,
+DistanceToFreewayComments,,
+DistanceToFreewayNumeric,,
+DistanceToFreewayUnits,,
+DistanceToGasComments,,
+DistanceToGasNumeric,,
+DistanceToGasUnits,,
+DistanceToPhoneServiceComments,,
+DistanceToPhoneServiceNumeric,,
+DistanceToPhoneServiceUnits,,
+DistanceToPlaceofWorshipComments,,
+DistanceToPlaceofWorshipNumeric,,
+DistanceToPlaceofWorshipUnits,,
+DistanceToSchoolBusComments,,
+DistanceToSchoolBusNumeric,,
+DistanceToSchoolBusUnits,,
+DistanceToSchoolsComments,,
+DistanceToSchoolsNumeric,,
+DistanceToSchoolsUnits,,
+DistanceToSewerComments,,
+DistanceToSewerNumeric,,
+DistanceToSewerUnits,,
+DistanceToShoppingComments,,
+DistanceToShoppingNumeric,,
+DistanceToShoppingUnits,,
+DistanceToStreetComments,,
+DistanceToStreetNumeric,,
+DistanceToStreetUnits,,
+DistanceToWaterComments,,
+DistanceToWaterNumeric,,
+DistanceToWaterUnits,,
+DocumentsAvailable,,
+DocumentsChangeTimestamp,,
+DocumentsCount,8,5
+DoorFeatures,"['Sliding Doors', 'French Doors']",['French Doors']
+DualVariableCompensationYN,True,True
+Electric,,
+ElectricExpense,,
+ElectricOnPropertyYN,True,
+ElementarySchool,Prosacco Inc,Schultz-Harvey
+ElementarySchoolDistrict,Louisiana,Washington
+Elevation,67682,72387
+ElevationUnits,Meters,Feet
+EntryLevel,,
+EntryLocation,Elevator,Top Level
+Exclusions,Consequatur ut consequuntur quos laboriosam eum quisquam ea dolorem. Et aliquam rerum ea et eos. Reprehenderit dolor provident et dolor quod est. Accusantium nam laboriosam dolores.,Qui vel voluptas nisi dolores doloremque sed qui maxime. Quibusdam aut saepe qui dolor dolor. Aut sed eligendi id saepe enim eaque quis laudantium. Placeat et nobis reprehenderit tempora provident laudantium consequuntur totam. Odit ducimus quas sint aut et.
+ExistingLeaseType,,
+ExpirationDate,,
+ExteriorFeatures,"['Balcony', 'Fenced Yard', 'Sprinkler', 'Garden']","['Balcony', 'Fenced Yard']"
+FarmCreditServiceInclYN,,
+FarmLandAreaSource,,
+FarmLandAreaUnits,,
+Fencing,"['Block', 'Chain Link', 'Wood', 'Wire']",['Wrought Iron']
+FinancialDataSource,"['Listing Broker', 'Not Available', 'Seller']",
+FireplaceFeatures,"['One', 'Living Room Fireplace', 'Wood', 'Gas', 'Two', 'Propane']","['One', 'Living Room Fireplace', 'Wood']"
+FireplaceYN,True,False
+FireplacesTotal,4,2
+Flooring,"['Hardwood', 'Laminate', 'Vinyl']","['Hardwood', 'Laminate', 'Vinyl', 'Tiles']"
+FoundationArea,2135947,6426306
+FoundationDetails,Slurry,Mat
+FrontageLength,149,354
+FrontageType,['Golf Course'],"['Golf Course', 'Lakefront']"
+FuelExpense,,
+Furnished,,
+FurnitureReplacementExpense,,
+GarageSpaces,1,2
+GarageYN,True,False
+GardnerExpense,,
+Gas,['Available'],['Available']
+GrazingPermitsBlmYN,,
+GrazingPermitsForestServiceYN,,
+GrazingPermitsPrivateYN,,
+GreenEnergyEfficient,,"['Energy efficient doors', 'Energy efficient windows', 'Energy efficient stove']"
+GreenEnergyGeneration,,
+GreenIndoorAirQuality,,
+GreenLocation,,
+GreenSustainability,,
+GreenWaterConservation,,
+GrossIncome,,
+GrossScheduledIncome,,
+HabitableResidenceYN,,
+Heating,"['Wood', 'Boiler', 'Electric']",['Forced Air']
+HeatingYN,True,True
+HighSchool,Goyette-Brakus,"Gerlach, Schmidt and Olson"
+HighSchoolDistrict,California,West Virginia
+HomeWarrantyYN,False,False
+HorseAmenities,,
+HorseYN,False,True
+HoursDaysOfOperation,,
+HoursDaysofOperationDescription,,
+IDXParticipationYN,True,True
+Inclusions,Sequi libero veritatis rem totam. Dignissimos facilis ab quae ab ad ut hic. Sit quos dignissimos fugit voluptatum omnis laboriosam deleniti.,Est tenetur ullam nisi saepe et labore. Laudantium earum aut et ad magnam qui. Mollitia doloremque voluptatem facilis distinctio adipisci.
+IncomeIncludes,,
+InsuranceExpense,,
+InteriorFeatures,Recusandae molestiae voluptates provident dolores ea itaque qui exercitationem. Veniam et et officia quam. Omnis illo esse iure harum fugiat et. Reiciendis voluptate nisi laborum quo.,Ut est corporis voluptatibus omnis ad nesciunt enim. Nihil quod quidem quod dolorem consequatur nisi. Animi id occaecati saepe magnam ut vel. Quae hic aut voluptas ipsum tenetur. Dolor et accusamus excepturi fugit et placeat blanditiis.
+InternetAddressDisplayYN,False,True
+InternetAutomatedValuationDisplayYN,False,False
+InternetConsumerCommentYN,False,False
+InternetEntireListingDisplayYN,False,False
+IrrigationSource,,
+IrrigationWaterRightsAcres,,
+IrrigationWaterRightsYN,,
+LaborInformation,,
+LandLeaseAmount,,40242946609
+LandLeaseAmountFrequency,,Bi-Weekly
+LandLeaseExpirationDate,,
+LandLeaseExpireactionDate,,2019-05-10T21:15:04.189Z
+LandLeaseYN,False,True
+Latitude,37.76675929,37.76670432
+LaundryFeatures,['In Kitchen'],"['In Kitchen', 'Gas Dryer Hookup', 'Washer']"
+LeasableArea,,
+LeasableAreaUnits,,
+LeaseAmount,,
+LeaseAmountFrequency,,
+LeaseAssignableYN,,
+LeaseConsideredYN,True,True
+LeaseExpiration,,
+LeaseRenewalCompensation,,
+LeaseRenewalOptionYN,,
+LeaseTerm,,
+Levels,['One Level'],"['One Level', 'Two Level', 'Split Level', 'Three or More Level', 'Multi Level']"
+License1,,
+License2,,
+License3,,
+LicensesExpense,,
+ListAOR,,
+ListAgentAOR,,
+ListAgentCellPhone,,
+ListAgentDesignation,,
+ListAgentDirectPhone,,
+ListAgentEmail,,
+ListAgentFax,,
+ListAgentFirstName,Hardy,Anika
+ListAgentFullName,Hardy Elias Grimes,Anika Charles Abbott
+ListAgentHomePhone,,
+ListAgentKey,M_5af601adcd966d3afc88e143,M_5af601aecd966d3afc88ee3f
+ListAgentKeyNumeric,,
+ListAgentLastName,Grimes,Abbott
+ListAgentMiddleName,Elias,Charles
+ListAgentMlsId,5af601adcd966d3afc88e144,5af601aecd966d3afc88ee40
+ListAgentNamePrefix,,
+ListAgentNameSuffix,,
+ListAgentOfficePhone,,
+ListAgentOfficePhoneExt,,
+ListAgentPager,,
+ListAgentPreferredPhone,406-817-8444,(918) 920-9447 x8179
+ListAgentPreferredPhoneExt,,
+ListAgentStateLicense,,
+ListAgentTollFreePhone,,
+ListAgentURL,,
+ListAgentVoiceMail,,
+ListAgentVoiceMailExt,,
+ListOfficeAOR,,
+ListOfficeEmail,,
+ListOfficeFax,,
+ListOfficeKey,O_5af6019c75f1043ad481da44,O_5af6019c75f1043ad481d9b5
+ListOfficeKeyNumeric,,
+ListOfficeMlsId,5af6019c75f1043ad481da45,5af6019c75f1043ad481d9b6
+ListOfficeName,Kihn-Armstrong Realty,Hilpert Inc Realty
+ListOfficePhone,,
+ListOfficePhoneExt,,
+ListOfficeURL,,
+ListPrice,238220,595373
+ListPriceLow,,
+ListTeamKey,,
+ListTeamKeyNumeric,,
+ListTeamName,,
+ListingAggreement,Open Listing,Open Listing
+ListingAgreement,,
+ListingContractDate,2018-05-11T20:49:26.369Z,2018-05-11T20:50:27.653Z
+ListingId,5af601d6fc76173b3482beff,5af60213fc76173b3483627e
+ListingInputOriginalMedia,,
+ListingKey,P_5af601d6fc76173b3482befe,P_5af60213fc76173b3483627d
+ListingKeyNumeric,,
+ListingService,Full Service,Full Service
+ListingTerms,['Cash'],
+LivingArea,1036,4837
+LivingAreaSource,Estimate,Agent
+LivingAreaUnits,SquareFeet,SquareFeet
+LockBoxLocation,Omnis perspiciatis nesciunt fuga ea nemo asperiores sunt. Sint esse commodi sunt. Ut exercitationem laborum illo nihil temporibus occaecati officia fuga. Provident laborum explicabo non et exercitationem. Eius adipisci ipsam commodi et officiis.,Quia odio ad at aperiam in illum quia. Consequatur omnis molestiae pariatur quo laboriosam incidunt nam omnis. Et praesentium cumque neque libero est dolores non. Temporibus qui autem rerum aliquam asperiores dolores.
+LockBoxSerialNumber,vm6fyil8s2aeiz8ukyetodps9,bote56r08ru2erecz447ort6y
+LockBoxType,Expedita nobis aut iure tempore sit eum assumenda. Vel sunt perspiciatis veniam eveniet eligendi inventore est. Necessitatibus tempora praesentium recusandae quia. Sequi qui rem vel velit error laudantium dolor.,Quia deleniti culpa non sapiente velit non beatae praesentium. Totam labore quas culpa recusandae et sit hic. Magnam dolore perspiciatis velit aliquid voluptatem neque dolores dolores. Voluptatem quo deleniti ab dolorem explicabo molestias exercitationem.
+Longitude,-122.4203009,-122.4217545
+LotDimensionsSource,Agent,Estimate
+LotFeatures,"['placeat', 'illum', 'nisi', 'provident', 'et']","['sit', 'nesciunt']"
+LotSizeAcres,2,2
+LotSizeArea,,
+LotSizeDimensions,801 x 261 x 701 x 25,737 x 782 x 533 x 794
+LotSizeDimensionsSource,Estimate,Assessor
+LotSizeSource,Agent,Assessor
+LotSizeSquareFeet,1925,1887
+LotSizeUnits,,
+MLSAreaMajor,,
+MLSAreaMinor,,
+MainLevelBathrooms,1,1
+MainLevelBedrooms,,
+MaintenanceExpense,,
+MajorChangeTimestamp,,
+MajorChangeType,Price reduction,Price reduction
+MajoreChangeTimestamp,2017-07-23T15:56:45.316Z,2018-03-15T15:51:17.620Z
+Make,,
+ManagerExpense,,
+MapCoordinate,,
+MapCoordinateSource,,
+MapURL,,
+Media,"[{'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/10.jpg', 'ShortDescription': 'Congregatio vinculum arceo.', 'MimeType': 'image/jpeg', 'Order': 1, 'MediaObjectID': 'ME_5af601d6fc76173b3482befc'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/02.jpg', 'ShortDescription': 'Combibo statim depraedor blanditiis accusamus causa.', 'MimeType': 'image/jpeg', 'Order': 2, 'MediaObjectID': 'ME_5af601d6fc76173b3482befd'}]","[{'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/13.jpg', 'ShortDescription': 'Carcer id aegrotatio quo cui.', 'MimeType': 'image/jpeg', 'Order': 1, 'MediaObjectID': 'ME_5af60213fc76173b34836274'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/22.jpg', 'ShortDescription': 'Caveo id corporis veritatis ullam dolorem.', 'MimeType': 'image/jpeg', 'Order': 2, 'MediaObjectID': 'ME_5af60213fc76173b34836275'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/09.jpg', 'ShortDescription': 'Stultus velit cerno usque sequi quas.', 'MimeType': 'image/jpeg', 'Order': 3, 'MediaObjectID': 'ME_5af60213fc76173b34836276'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/28.jpg', 'ShortDescription': 'Conatus solio voluptatum sui aut suspendo.', 'MimeType': 'image/jpeg', 'Order': 4, 'MediaObjectID': 'ME_5af60213fc76173b34836277'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/24.jpg', 'ShortDescription': 'Aliqua ut addo aurum vilicus.', 'MimeType': 'image/jpeg', 'Order': 5, 'MediaObjectID': 'ME_5af60213fc76173b34836278'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/19.jpg', 'ShortDescription': 'Taceo repudiandae optio.', 'MimeType': 'image/jpeg', 'Order': 6, 'MediaObjectID': 'ME_5af60213fc76173b34836279'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/33.jpg', 'ShortDescription': 'Sursum deludo infit sint pauper.', 'MimeType': 'image/jpeg', 'Order': 7, 'MediaObjectID': 'ME_5af60213fc76173b3483627a'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/03.jpg', 'ShortDescription': 'Vitae fuga rerum rem adflicto summopere.', 'MimeType': 'image/jpeg', 'Order': 8, 'MediaObjectID': 'ME_5af60213fc76173b3483627b'}, {'MediaURL': 'https://s3.amazonaws.com/retsly-importd-production/test_data/listings/16.jpg', 'ShortDescription': 'Alioqui corrupti conturbo.', 'MimeType': 'image/jpeg', 'Order': 9, 'MediaObjectID': 'ME_5af60213fc76173b3483627c'}]"
+MiddleOrJuniorSchool,Wolff-Dooley,Hodkiewicz Group
+MiddleOrJuniorSchoolDistrict,Rhode Island,Washington
+MlsStatus,Active,Active
+MobileDimUnits,,
+MobileHomeRemainsYN,,
+MobileLength,,
+MobileWidth,,
+Model,,
+ModificationTimestamp,2018-05-10T20:13:09.570Z,2017-06-20T18:38:15.755Z
+NetOperatingIncome,,
+NewConstructionYN,True,True
+NewTaxesExpense,,
+NumberOfBuildings,,
+NumberOfFullTimeEmployees,,
+NumberOfLots,,
+NumberOfPads,,
+NumberOfPartTimeEmployees,,
+NumberOfSeparateElectricMeters,,
+NumberOfSeparateGasMeters,,
+NumberOfSeparateWaterMeters,,
+NumberOfUnitsInCommunity,,
+NumberOfUnitsLeased,,
+NumberOfUnitsMoMo,,
+NumberOfUnitsTotal,79,179
+NumberOfUnitsVacant,,
+OccupantName,Jimmie Jarvis Gutkowski,Jordy Bernita Borer
+OccupantPhone,(423) 276-9831 x7304,231.564.2353 x5501
+OccupantType,Vacant,Owner
+OffMarketDate,,
+OffMarketTimestamp,,
+OnMarketDate,2017-12-02T20:49:26.369Z,2017-10-27T20:50:27.653Z
+OnMarketTimestamp,,
+OpenParkingSpaces,,
+OpenParkingYN,False,False
+OperatingExpense,,
+OperatingExpenseIncludes,,
+OriginalEntryTimestamp,2017-11-24T17:18:24.509Z,2017-07-22T15:39:05.719Z
+OriginalListPrice,467704,717393
+OriginatingSystemID,test,test
+OriginatingSystemKey,test,test
+OriginatingSystemName,Test,Test
+OtherEquipment,"['Generator', 'Central Vacuum Nozzle', 'Satellite Dish', 'TV Antenna', '']","['', 'Central Vacuum Nozzle']"
+OtherExpense,,
+OtherParking,,
+OtherStructures,"['illum', 'impedit']","['nam', 'atque', 'omnis', 'consectetur', 'fugit', 'magni', 'est']"
+OwnerName,,
+OwnerPays,,
+OwnerPhone,,
+Ownership,Partnership,Sole P
+OwnershipType,,
+ParcelNumber,1583,1370
+ParkManagerName,,
+ParkManagerPhone,,
+ParkName,,
+ParkingFeatures,,
+ParkingTotal,3,3
+PastureArea,,
+PatioAndPorchFeatures,"['perferendis', 'qui', 'dolor', 'id', 'aliquid', 'similique', 'expedita', 'nihil']",
+PendingTimestamp,2017-07-23T13:17:50.354Z,2017-05-29T21:53:43.639Z
+PestControlExpense,,
+PetsAllowed,"['Yes', 'No', 'Call', 'Cats OK', 'Dogs OK', 'Number Limit']","['Yes', 'No', 'Call', 'Cats OK', 'Dogs OK']"
+PhotosChangeTimestamp,,
+PhotosCount,2,9
+PoolExpense,,
+PoolFeatures,,
+PoolPrivateYN,False,False
+Possession,,"['Close of Escrow', 'Close Plus 1 Day', 'Close Plus 2 Days', 'Close Plus 3 Days', 'Close Plus 3 to 5 Days', 'Close Plus 30 Days', 'Negotiable', 'Rental Agreement', 'See Remarks', 'Seller Rent Back']"
+PossibleUse,,
+PostalCity,,
+PostalCode,94103,94103
+PostalCodePlus4,,
+PreviousListPrice,588643,316408
+PriceChangeTimestamp,2018-05-07T22:57:07.164Z,2017-09-10T05:06:30.460Z
+PrivateOfficeRemarks,"Quae inventore alias quis at modi. Delectus exercitationem nihil magnam. Non tempore laboriosam eius sit illum debitis.
+ 	Porro sapiente qui exercitationem nobis. Quod ut qui vel voluptatum. Adipisci eaque est asperiores. Itaque modi sit incidunt magnam architecto qui.
+ 	Eos consectetur eum eos asperiores perspiciatis. Similique ex velit laudantium doloribus cum quam iste. Et fugit esse dolor sint. Odio quo laudantium in quo iste.
+ 	Autem explicabo neque perferendis eum dolorem sint. Maxime et voluptatem nam voluptatum commodi ut. Occaecati ducimus rem mollitia numquam qui nulla.","Aliquid incidunt suscipit animi laborum repellendus. Dolores voluptas magnam sit itaque nihil a consectetur. Possimus dicta esse accusantium iure dicta cupiditate sint. Est incidunt quis et harum.
+ 	Autem numquam doloremque ut laudantium quibusdam. Porro minima ipsum quod nihil excepturi consequatur perferendis cumque. Ad eum porro rerum dolores officia.
+ 	Et ex explicabo nulla ut nesciunt dignissimos earum ab. Earum non debitis soluta rem. Incidunt aut sequi dolorum inventore tempora dicta repudiandae cupiditate.
+ 	Assumenda corporis explicabo sit maiores. Voluptatibus consequatur non est qui. Ipsa itaque quia sed sint dolor et deleniti."
+PrivateRemarks,"Rem veritatis adipisci ipsam rerum ut ex. Et velit dignissimos suscipit velit beatae facilis molestiae ipsam. Ullam quo labore qui voluptas vel magni dicta.
+ 	Quae animi molestiae voluptatem cupiditate. Qui nisi dolore eaque ducimus debitis reiciendis blanditiis aut. Consequatur molestias libero sunt sunt iusto in facere.
+ 	Eaque quod tempora ea. Iure est labore non eos ut qui voluptatem. Qui quos quo sint ut recusandae voluptatibus voluptatem.
+ 	Et quisquam et illum et cumque vero doloremque laudantium. Voluptatum quisquam sapiente aut. Eligendi corporis nemo omnis quo suscipit nulla sint sed. Exercitationem unde qui iusto.","Et voluptas praesentium quaerat debitis totam incidunt. Et debitis et autem veniam aut enim aut. Placeat iure laborum totam asperiores corrupti.
+ 	Voluptate voluptates sint consequuntur et id. Suscipit eaque aut esse tempora ad. Sit quo corporis ratione cupiditate alias sed perspiciatis. Et commodi velit et aut cum et. Fuga qui in quam at deserunt ratione sint exercitationem.
+ 	Harum numquam repellat consequuntur porro possimus. Et nemo sit explicabo. Culpa deleniti quis eveniet occaecati et officiis ratione. Iste magni voluptas molestias illo dolor. Aut velit mollitia accusamus.
+ 	Voluptates velit enim dolores dolorem a harum. Ex quaerat tempore quia dicta. Rerum ipsa est inventore id necessitatibus inventore aliquid tempora. Enim sit quisquam est sit suscipit similique."
+ProfessionalManagementExpense,,
+PropertyAttachedYN,True,False
+PropertyCondition,,
+PropertySubType,Single Family Residence,Condominium
+PropertyType,Residential,Business
+PublicRemarks,"Et consequatur alias consequatur reiciendis esse dolorum itaque dolor. Nulla non ut provident culpa consectetur velit ex. Nihil temporibus et voluptatem. Hic officiis a at ea ut praesentium. Corporis iste rerum eligendi eum distinctio ex aut.
+ 	Ipsam quod voluptas asperiores possimus nemo fugiat exercitationem praesentium. Occaecati cupiditate iusto dolorum. Voluptatem necessitatibus perferendis alias beatae.
+ 	Necessitatibus ut accusamus et enim. Et alias blanditiis ut. Aperiam at perspiciatis praesentium.
+ 	Et dolorum fuga dolor ducimus ipsum ex dolore. Possimus harum veritatis ut eaque distinctio nihil rerum quia. Atque et sit eum nihil et ratione. Est facilis libero facere dolorem reprehenderit totam reprehenderit et. Voluptatum consectetur eaque quidem velit eum ducimus perspiciatis.","Sapiente reiciendis iste dolorem reiciendis neque ipsum alias. In incidunt at qui quia. Tempore vero aut et repellat aut. Voluptatem et iure suscipit.
+ 	Nobis aut ipsa eligendi saepe delectus. Saepe labore non itaque dolorem consequatur ratione id. Numquam qui ex rerum aliquid et rerum. Quisquam vel amet quis officia. Vitae esse sit qui labore iusto nostrum expedita sed.
+ 	Qui quo ipsum at est quia assumenda iure fugit. Et accusantium dolores nihil rem. Rerum sed provident corporis enim hic dolorum velit incidunt.
+ 	Aliquam minima fugit rerum dicta mollitia aut sapiente ut. Et consequuntur officiis sapiente quod reiciendis voluptatem. Non atque qui praesentium saepe quidem doloremque consequatur."
+PublicSurveyRange,,
+PublicSurveySection,,
+PublicSurveyTownship,,
+PurchaseContractDate,,
+RVParkingDimensions,,
+RangeArea,,
+RentControlYN,,
+RentIncludes,,
+RoadFrontageType,['Freeway frontage'],['Freeway frontage']
+RoadResponsibility,,"['City', 'County']"
+RoadSurfaceType,Cement,Asphalt
+Roof,['Metal'],"['Metal', 'Gravel']"
+RoomsTotal,22,3
+SeatingCapacity,,
+SecurityFeatures,,
+SeniorCommunityYN,False,False
+SerialU,,
+SerialX,,
+SerialXX,,
+Sewer,['Septic'],['Yes Connected']
+ShowingContactName,Kip Jessyca Lesch,Haven Clinton Altenwerth
+ShowingContactPhone,872.541.2428,606-859-0954 x8446
+ShowingContactPhoneExt,,
+ShowingContactType,Agent,Broker
+ShowingInstructions,"Ut quos porro tempore eos est architecto. Blanditiis recusandae sed qui voluptas quo soluta fugiat. Natus exercitationem voluptates aperiam nihil sed.
+ 	Nulla laudantium assumenda consectetur. Ipsa voluptatem sint molestiae unde. Dolor sint molestiae et. Temporibus natus amet odit quas est neque quas occaecati. Deleniti et optio et.
+ 	Aut magni rerum similique. Exercitationem molestias voluptatibus ut soluta a. Perferendis officiis omnis perferendis quia ab.
+ 	Non mollitia alias eos veritatis nemo a voluptates inventore. Qui asperiores et labore. Dicta et occaecati ex non asperiores minus aliquid et.","Nemo nihil dignissimos delectus eius. Earum consequuntur sapiente nihil. Nobis saepe autem expedita iusto.
+ 	Eligendi est et et distinctio maiores accusamus quia id. Earum et libero ut corrupti. Tenetur earum autem est quod laboriosam.
+ 	Alias qui veniam voluptas ut eos. Eius molestiae in non aut eveniet. Dignissimos alias molestiae perspiciatis quaerat est porro. Ipsam maiores numquam iure tenetur ipsam non.
+ 	Ab blanditiis laborum aperiam in et. Et quibusdam hic hic veritatis ut rem sint. In et sint possimus optio."
+SignOnPropertyYN,False,True
+Skirt,,
+SourceSystemID,,
+SourceSystemKey,,
+SourceSystemName,,
+SpaFeatures,,
+SpecialLicenses,,
+SpecialListingConditions,"['Standard', 'REO', 'Short Sale', 'Probate']","['Standard', 'REO', 'Short Sale']"
+StandardStatus,Active,Active
+StateOrProvince,CA,CA
+StateRegion,,
+StatusChangeTimestamp,2018-05-11T20:49:26.369Z,2018-05-11T20:50:27.653Z
+Stories,1,1
+StoriesTotal,3,3
+StreetAdditionalInfo,,
+StreetDirPrefix,,
+StreetDirSuffix,,
+StreetName,15th St,15th St
+StreetNumber,1637,1684
+StreetNumberNumeric,,
+StreetSuffix,,
+StreetSuffixModifier,,
+StructureType,,
+SubAgencyCompensation,,
+SubAgencyCompensationType,,
+SubdivisionName,dolorum,atque
+SuppliesExpense,,
+SyndicateTo,"['Zillow', 'Trulia', 'hotspads.com']","['Zillow', 'Trulia']"
+SyndicationRemarks,,
+TaxAnnualAmount,625502,113700
+TaxAssessedValue,765384,833605
+TaxBlock,Lot 19 of Block 45 of Tract 4879 of Lake Talon,Lot 91 of Block 42 of Tract 1520 of Larkinside
+TaxBookNumber,,
+TaxExemptions,,
+TaxLegalDescription,"Reprehenderit animi qui dolor maiores sit eaque. Omnis sed ut sed ipsam. Possimus quia maiores dignissimos sed odit sit dolores dolor. Iste reiciendis nemo ducimus in. Occaecati est voluptate nobis sapiente sunt quae reiciendis.
+ 	Distinctio harum libero molestiae. Quia unde reprehenderit incidunt nostrum est. Sit sint voluptas quae corporis et et.","Reiciendis in laboriosam doloremque. Dolorum numquam et eos. Provident esse unde totam deleniti. Qui ad voluptas nihil minima dolor unde molestiae repellendus. Assumenda eaque saepe cumque quia atque cumque optio.
+ 	Enim enim eligendi corrupti esse ipsa non qui aut. Consectetur sint eum eius molestiae necessitatibus in velit mollitia. Et et ut et consequuntur a ipsum exercitationem. Qui unde fugit velit. Qui corrupti reprehenderit aut rerum."
+TaxLot,Lot 30 of Block 85 of Tract 3626 of Reicherthaven,Lot 74 of Block 23 of Tract 3112 of Townebury
+TaxMapNumber,,
+TaxOtherAnnualAssessmentAmount,,
+TaxParcelLetter,,
+TaxStatusCurrent,,['Assessed']
+TaxTract,Lot 31 of Block 86 of Tract 4318 of New Weldon,Lot 37 of Block 0 of Tract 4293 of West Moshe
+TaxYear,2017,2017
+Telephone,['Available'],['Available']
+TenantPays,,
+Topography,,
+TotalActualRent,,
+Township,,
+TransactionBrokerCompensation,,
+TransactionBrokerCompensationType,,
+TrashExpense,,
+UnitNumber,#466,#324
+UnitsFurnished,,
+UnparsedAddress,"1637 15th St, San Francisco, CA 94103","1684 15th St, San Francisco, CA 94103"
+Utilities,,
+VacancyAllowance,,
+VacancyAllowanceRate,,
+Vegetation,,
+VideosChangeTimestamp,,
+VideosCount,,
+View,['View'],['View']
+ViewYN,True,False
+VirtualTourURLBranded,,
+VirtualTourURLUnbranded,,
+WalkScore,,
+Walkscore,53,6
+WaterBodyName,,
+WaterSewerExpense,,
+WaterSource,['Municipal'],"['Municipal', 'Irrigation District', 'Private Utility']"
+WaterfrontFeatures,,
+WaterfrontYN,False,True
+WindowFeatures,,
+WithdrawnDate,,
+WoodedArea,,
+WorkmansCompensationExpense,,
+YearBuilt,2004,1995
+YearBuiltDetails,Amet possimus ut quasi ea. Assumenda quam ad non sequi molestias voluptatem. Aliquam magni explicabo maxime.,Dolorem dolores non aperiam et ut. Numquam in magni aspernatur. Corporis laudantium itaque eum ea. Voluptatibus ullam maxime beatae.
+YearBuiltEffective,,
+YearBuiltSource,Estimate,Estimate
+YearEstablished,,
+YearsCurrentOwner,,
+Zoning,IH,GU
+ZoningDescription,Rezone Possible,Agricultural
+distanceFrom,0.716679268879985,0.728776572820364
+url,https://rets.io/api/v2/test/listings/P_5af601d6fc76173b3482befe,https://rets.io/api/v2/test/listings/P_5af60213fc76173b3483627d
