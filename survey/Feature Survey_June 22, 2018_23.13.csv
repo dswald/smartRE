@@ -1,0 +1,271 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,House Features_1,House Features_2,House Features_3,House Features_4,House Features_5,House Features_6,House Features_7,House Features_8,Neighborhood Feature_1,Neighborhood Feature_2,Neighborhood Feature_3,Neighborhood Feature_4,Neighborhood Feature_5,Neighborhood Feature_6,Neighborhood Feature_7,Neighborhood Feature_8,Neighborhood Feature_9,Neighborhood Feature_10,Neighborhood Feature_11,Location Features_1,Location Features_2,Location Features_3,Location Features_12,Location Features_4,Location Features_5,Location Features_6,Location Features_7,Location Features_8,Location Features_9,Location Features_10,Location Features_11,Q10#1_1,Q10#1_2,Q10#1_3,Q10#1_4,Q10#1_5,Q10#1_6,Q10#1_7,Q10#1_8,Q10#2_1,Q10#2_2,Q10#2_3,Q10#2_4,Q10#2_5,Q10#2_6,Q10#2_7,Q10#2_8,Q10#3_1,Q10#3_2,Q10#3_3,Q10#3_4,Q10#3_5,Q10#3_6,Q10#3_7,Q10#3_8,Q11
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - Price","Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - Price per SQFT","Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - No. of Bedrooms / Bathrooms","Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - Square Footage","Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - House Type (Single Family / Townhouse / Condo / PUD)","Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - Age of Property","Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - Public School Scores","Q1/4. House Features
+
+Please rate if you would like to see the following house features when searching for properties - Have Pool or Not","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Median Household Income of Neighbors","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Median Commute Time of Neighbors","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Race of Neighbors (% of White, Black, Asian, Latino)","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - High % of Family Households","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - High % of Households with Kids","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Mostly Owner-occupied Houses","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Low Vacancies","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Median Age of Neighbors","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Type of Commute for Neighbors (% of Drive, Carpool, Transit, Walk)","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Population Density","Q2/4. Neighborhood Features
+Please rate if you would like to see the following neighborhood features when searching for properties - Special Geographics (By Sea or on Hilltop)","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Walkable","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Transitable","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Bikeable","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Safety","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Schools (Public and Private)","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Restaurants","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Coffee Shops","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Bars","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Grocery Stores","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Parks","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Shopping Places","Q3/4. Location Features
+Please rate if you would like to see the following location features when searching for properties - Nearby Entertainment","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby School","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby Restaurants","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby Coffee Shops","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby Bars","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby Grocery Stores","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby Parks","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby Shopping Places","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - Closest Distance - Nearby Entertainment","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby School","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby Restaurants","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby Coffee Shops","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby Bars","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby Grocery Stores","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby Parks","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby Shopping Places","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within 
+
+1-mile (20 min walking) - Nearby Entertainment","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby School","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby Restaurants","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby Coffee Shops","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby Bars","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby Grocery Stores","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby Parks","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby Shopping Places","Q3/4. Location Features Of the nearby places that you think would be useful, which feature(s) wou... - No. of Choices within
+
+1/2-mile (10 min walking) - Nearby Entertainment","Q4/4. Additional Features?
+
+Any other feature you think is a must?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2_2""}","{""ImportId"":""QID2_3""}","{""ImportId"":""QID2_4""}","{""ImportId"":""QID2_5""}","{""ImportId"":""QID2_6""}","{""ImportId"":""QID2_7""}","{""ImportId"":""QID2_8""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID7_3""}","{""ImportId"":""QID7_4""}","{""ImportId"":""QID7_5""}","{""ImportId"":""QID7_6""}","{""ImportId"":""QID7_7""}","{""ImportId"":""QID7_8""}","{""ImportId"":""QID7_9""}","{""ImportId"":""QID7_10""}","{""ImportId"":""QID7_11""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID9_12""}","{""ImportId"":""QID9_4""}","{""ImportId"":""QID9_5""}","{""ImportId"":""QID9_6""}","{""ImportId"":""QID9_7""}","{""ImportId"":""QID9_8""}","{""ImportId"":""QID9_9""}","{""ImportId"":""QID9_10""}","{""ImportId"":""QID9_11""}","{""ImportId"":""QID10#1_1""}","{""ImportId"":""QID10#1_2""}","{""ImportId"":""QID10#1_3""}","{""ImportId"":""QID10#1_4""}","{""ImportId"":""QID10#1_5""}","{""ImportId"":""QID10#1_6""}","{""ImportId"":""QID10#1_7""}","{""ImportId"":""QID10#1_8""}","{""ImportId"":""QID10#2_1""}","{""ImportId"":""QID10#2_2""}","{""ImportId"":""QID10#2_3""}","{""ImportId"":""QID10#2_4""}","{""ImportId"":""QID10#2_5""}","{""ImportId"":""QID10#2_6""}","{""ImportId"":""QID10#2_7""}","{""ImportId"":""QID10#2_8""}","{""ImportId"":""QID10#3_1""}","{""ImportId"":""QID10#3_2""}","{""ImportId"":""QID10#3_3""}","{""ImportId"":""QID10#3_4""}","{""ImportId"":""QID10#3_5""}","{""ImportId"":""QID10#3_6""}","{""ImportId"":""QID10#3_7""}","{""ImportId"":""QID10#3_8""}","{""ImportId"":""QID11_TEXT""}"
+2018-06-16 00:57:28,2018-06-16 00:58:07,Survey Preview,,100,39,True,2018-06-16 00:58:07,R_2zpWtSlhftbkjkR,,,,,37.550994873047,-122.07780456543,preview,EN,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Not Important,Useful to have,Useful to have,Not Important,Not Important,"Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,"Must Have
+( I have a strict min/max )",,,,,,,,,,,,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:00:07,2018-06-16 01:00:26,Survey Preview,,100,19,True,2018-06-16 01:00:26,R_1pySQRANO2bEn6i,,,,,37.550994873047,-122.07780456543,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,"Must Have
+( I have preferences, but no min/max )",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:15:34,2018-06-16 01:17:34,Survey Preview,,100,120,True,2018-06-16 01:17:35,R_3itkFslq7kRbAYk,,,,,37.550994873047,-122.07780456543,preview,EN,"Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Not Important,Not Important,,Useful to have,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:22:44,2018-06-16 01:23:07,Survey Preview,,100,23,True,2018-06-16 01:23:08,R_TcMLHeekkohLEBP,,,,,37.550994873047,-122.07780456543,preview,EN,,,,,,,,,,,,,,,,,,,,Useful to have,Useful to have,Useful to have,,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:23:11,2018-06-16 01:23:32,Survey Preview,,100,20,True,2018-06-16 01:23:32,R_1CDsWcwVOJID6Na,,,,,37.550994873047,-122.07780456543,preview,EN,,,,,,,,,,,,,,,,,,,,Useful to have,Useful to have,Useful to have,,Useful to have,Not Important,Not Important,Not Important,Not Important,Useful to have,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:24:34,2018-06-16 01:24:51,Survey Preview Spam,,100,17,True,2018-06-16 01:24:52,R_bBnl40z9pMPmh7H,,,,,37.550994873047,-122.07780456543,preview,EN,,,,,,,,,,,,,,,,,,,,Useful to have,Useful to have,Useful to have,,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:24:56,2018-06-16 01:25:11,Survey Preview Spam,,100,15,True,2018-06-16 01:25:12,R_3EtZJUZVfEdxTD6,,,,,37.550994873047,-122.07780456543,preview,EN,,,,,,,,,,,,,,,,,,,,Useful to have,Useful to have,Useful to have,,Useful to have,Not Important,Not Important,Not Important,Not Important,Useful to have,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:34:04,2018-06-16 01:34:54,Survey Preview,,100,49,True,2018-06-16 01:34:54,R_2tDPfiAQLUq3jk0,,,,,37.550994873047,-122.07780456543,preview,EN,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,,,,,,,,Useful to have,Useful to have,Useful to have,,Useful to have,Not Important,Not Important,Not Important,Not Important,Useful to have,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 01:43:54,2018-06-16 01:44:43,Survey Preview,,100,49,True,2018-06-16 01:44:44,R_2bTW7lmS8e611Fk,,,,,37.550994873047,-122.07780456543,preview,EN,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,"Must Have
+( I have a strict min/max )",Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )",Not Important,Not Important,"Must Have
+( I have a strict min/max )",,,,,Useful to have,Useful to have,Useful to have,,Useful to have,Not Important,Not Important,Not Important,Not Important,Useful to have,Not Important,Not Important,,,,,,,,,,,,,,,,,1,,,,,1,,,
+2018-06-16 01:46:12,2018-06-16 01:46:43,Survey Preview,,100,30,True,2018-06-16 01:46:43,R_AmQG4BfTF4zSUUN,,,,,37.550994873047,-122.07780456543,preview,EN,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,,,,,,,,,,,,,Useful to have,Useful to have,Useful to have,,Useful to have,Not Important,Not Important,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,,,,,,,,,,,,,,1,,,,,,,,1,,1,
+2018-06-16 01:46:45,2018-06-16 01:47:14,Survey Preview,,100,29,True,2018-06-16 01:47:15,R_AG1hCF7jZLrHImB,,,,,37.550994873047,-122.07780456543,preview,EN,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",,"Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )",,,,,,,,,,Useful to have,Useful to have,Useful to have,,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-16 08:08:21,2018-06-16 08:10:14,Survey Preview,,100,112,True,2018-06-16 08:10:14,R_eEcoKSoTAYOGYnf,,,,,37.550994873047,-122.07780456543,preview,EN,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )",Useful to have,Not Important,Not Important,,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Not Important,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,,Useful to have,Not Important,Not Important,Not Important,Useful to have,Useful to have,Not Important,Not Important,1,,,,1,1,,,,,,,,,,,,,,,1,1,,,dsada
+2018-06-16 08:10:20,2018-06-16 08:11:13,Survey Preview,,100,53,True,2018-06-16 08:11:14,R_2CcQ4R3LEJoZvwI,,,,,37.550994873047,-122.07780456543,preview,EN,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,Useful to have,,,,,,,,Not Important,Not Important,Not Important,,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-17 18:13:34,2018-06-17 18:15:16,Survey Preview,,100,102,True,2018-06-17 18:15:16,R_8dnUoTq4oz2LVC1,,,,,37.550994873047,-122.07780456543,preview,EN,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Not Important,Useful to have,Useful to have,Useful to have,Not Important,Not Important,Not Important,Not Important,Not Important,Useful to have,Not Important,Useful to have,Useful to have,Useful to have,Not Important,,"Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Not Important,Not Important,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,xxx
+2018-06-17 18:16:20,2018-06-17 18:16:33,IP Address,73.231.61.32,100,12,True,2018-06-17 18:16:33,R_3JrW5j0dBIIaM5p,,,,,37.550994873047,-122.07780456543,anonymous,EN,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-06-19 09:31:14,2018-06-19 09:35:01,IP Address,174.207.9.78,100,226,True,2018-06-19 09:35:01,R_3k5meDq3mWSMU3X,,,,,30.262298583984,-97.74649810791,anonymous,EN,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,Not Important,Useful to have,"Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Not Important,Not Important,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Not Important,Useful to have,"Must Have
+( I have a strict min/max )",Useful to have,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,1,,,,,,,,,,,1,1,,1,1,,1,1,,,1,,,
+2018-06-19 09:32:33,2018-06-19 09:39:40,IP Address,38.140.7.60,100,426,True,2018-06-19 09:39:41,R_3LaRo1obh4uEq5V,,,,,33.837905883789,-84.38459777832,anonymous,EN,"Must Have
+( I have a strict min/max )",Not Important,"Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )",Not Important,Not Important,Useful to have,Not Important,Not Important,Not Important,Useful to have,Useful to have,Not Important,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",1,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,Yard size
+2018-06-19 13:23:17,2018-06-19 13:26:48,IP Address,207.172.94.230,100,210,True,2018-06-19 13:26:48,R_3dLzpsWeInRuNPg,,,,,38.892700195312,-76.943000793457,anonymous,EN,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have preferences, but no min/max )",Useful to have,Not Important,Useful to have,Useful to have,Not Important,Useful to have,"Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,"Must Have
+( I have a strict min/max )",Useful to have,Useful to have,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,,,,,1,,,,,,,1,,,,,1,1,1,,,1,1,1,
+2018-06-19 21:41:06,2018-06-19 21:43:29,IP Address,92.216.225.72,100,143,True,2018-06-19 21:43:30,R_3HZAeeeNeF1PDYO,,,,,50.12190246582,8.6654968261719,anonymous,EN,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",1,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,
+2018-06-20 21:29:23,2018-06-20 21:43:25,IP Address,162.246.100.13,100,842,True,2018-06-20 21:43:26,R_1cUl4MpbEFt8efD,,,,,40.290298461914,-111.72360229492,anonymous,EN,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Not Important,Useful to have,Not Important,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )",Useful to have,Not Important,Not Important,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,,,,,,,,,1,1,,,,1,1,1,,,,,1,,,,
+2018-06-21 09:13:00,2018-06-21 09:25:43,IP Address,67.82.42.165,100,762,True,2018-06-21 09:25:44,R_1Q4pU4GIF9p9OKV,,,,,40.837295532227,-73.693801879883,anonymous,EN,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Not Important,Useful to have,Useful to have,Not Important,Useful to have,Useful to have,Useful to have,Not Important,Not Important,Useful to have,Not Important,Not Important,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )",Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,1,,,,,,,,,1,,1,1,1,1,1,,,1,,,,,,
+2018-06-21 11:06:29,2018-06-21 11:09:14,IP Address,73.239.201.188,100,165,True,2018-06-21 11:09:15,R_1hYKHzHZ5L15kZj,,,,,47.620101928711,-122.16529846191,anonymous,EN,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,Not Important,Not Important,Useful to have,"Must Have
+( I have preferences, but no min/max )",Not Important,Not Important,"Must Have
+( I have preferences, but no min/max )",Useful to have,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,Useful to have,1,,,,1,1,1,1,,,,,1,1,,,,1,1,1,,,,,
+2018-06-21 11:41:38,2018-06-21 11:44:49,IP Address,204.128.192.33,100,190,True,2018-06-21 11:44:49,R_27OPDIps5Lzc7rr,,,,,34.100601196289,-118.32749938965,anonymous,EN,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",Useful to have,Useful to have,Not Important,Useful to have,Not Important,Not Important,Not Important,Useful to have,Not Important,Not Important,"Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )","Must Have
+( I have preferences, but no min/max )",1,,,,,,,,,1,1,1,1,1,1,1,,,,,,,,,
+2018-06-22 15:33:53,2018-06-22 15:37:40,IP Address,80.111.25.51,100,227,True,2018-06-22 15:37:41,R_PXKW8FrSBEFjXC9,,,,,53.333099365234,-6.2489013671875,anonymous,EN,"Must Have
+( I have a strict min/max )",Useful to have,"Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )",Not Important,Useful to have,"Must Have
+( I have preferences, but no min/max )",Not Important,Useful to have,Useful to have,"Must Have
+( I have preferences, but no min/max )",Not Important,Useful to have,Not Important,Useful to have,"Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )","Must Have
+( I have a strict min/max )",Not Important,"Must Have
+( I have a strict min/max )",Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,Not Important,,,,,,,,,,,,,,,,,,,,,,,,,"interior features; things like: wood floors, granite counters, windows. Average cost of utilities. taxes."
