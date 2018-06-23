@@ -1,0 +1,8 @@
+My conclusion is that we can't go with the conjoint design. 8 people said the allocation was easier. While everyone said they would take the allocation survey, but 5 (half) said they would not invest the time to take the conjoint survey. Self-reported mean time was 7 min for the conjoint, and 4 min for the allocation (survey recorded mean time for allocation was actually 3 min).
+
+In terms of info from the responses to the allocation, here's a couple highlights:
+
+- People care the most about price, bedrooms, and square feet for home attributes
+- People care the most about school quality for neighborhood attributes, but it's high variance (0-50%). Near water was another high variance attribute (0-50%), but lower overall importance
+- People care the most about being close to work, but it's also high variance (20-70%). No one cares about being near landmarks
+- People are fairly evenly split on the importance of the types of attributes (home, neighborhood, and commute), with slightly less on commute.

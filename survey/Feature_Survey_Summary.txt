@@ -1,0 +1,29 @@
+Note that additional features written in that I think we have in the tax assessment info were: yard size / total land area, taxes
+And the ones that we don't have were: average cost of utilities, interior features (like granite counters, wood floors, etc)
+
+Among house features (2nd table on page 2), I suggest:
+
+- price, house type, and number of bedrooms as filters (all over 50% rated as must have with a strict min/max)
+- square footage, public school scores, and age of property definitely need to be factors we include in the models (all >70% rated as must have information, but more generally not with a min/max)
+- Price / sq ft rated 30% must have, 50% useful to have, so I suggest including it in what is shown for the individual property level, but not include in algorithms
+- Have pool or not is rated 50% not important. At most we would want to show the information for the property, but definitely not include in any algorithms
+
+Among neighborhood features (table on bottom pg 4 onto pg 5), I suggest:
+
+- none as filters b/c all have practically 0% in must have with strict min/max
+- median commute time of neighbors, high % households with kids, mostly owner-occupied homes, and maybe special geographics to include in our models. These all had 20-30% must have, and 50-60% useful to have (except geographics which was 30% useful to have).
+- displaying median household income of neighbors, median age of neighbors, and type of commute for neighbors, and population density. These all had 50-80% rated as useful to have
+- not using race of neighbors (60% said not useful), high % of family households (60% said useful, but seems redundant with kids), and low vacancies (50% said useful, but seems to overlap a lot with owner-occupied homes)
+
+Among location features (table on bottom of page 7 onto pg 8), I suggest:
+
+- none as filters b/c max 20% rated a features as must have with strict min/max
+- Walkable, Transitable, safety, nearby schools, nearby grocery stores, and nearby parks to include in models. They all had over 50% (most 80%) rated as must have info
+- Display Bikeable, nearby restaurants, nearby coffee shops, nearby bars, nearby shopping places, and nearby entertainment (generally rated 30% must have info, 40-50% useful to have)
+- no features to not use
+
+Among the 'nearby' location features, here's the info people thought would be most useful:
+
+- closest distance to the school (6/8 people who said useful or must have info)
+- number of choices within 1 mile for restaurants, bars, grocery stores, parks, shopping places, entertainment (5/ 7 or 8 people who said useful or must have info; except restaurants which was 4/8)
+- number of choices within 1/2 mile for coffee shops (4/7 people who said useful or must have info)
