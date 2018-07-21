@@ -50,23 +50,28 @@ def get_user_scores():
     
     return (username, user_scores)
 
-def poly_personal(data, weight, row):
-    poly_coef = np.loadtxt('poly_coef.out', delimiter=',')
-    total = 0
-    feature_number = len(data.columns)
-    sq_indices = [feature_number + 1]
-    for i in range(feature_number, 1, -1):
-        sq_indices.append(sq_indices[-1] + i)
-    for i in range(feature_number):
-        total += poly_coef[i + 1] * data.iloc[row,i] * weight[i]
-        total += poly_coef[sq_indices[i]] * (data.iloc[row,i] ** 2) * (weight[i] ** 2)
-        for j in range(i+1, feature_number):
-            total += poly_coef[sq_indices[i] + j - i] * data.iloc[row,i] * data.iloc[row,j] * weight[i] * weight[j]
-    return total
+def rf_feature_score(df, feature):
+    rf = RandomForestRegressor()
+    X = df.loc[:, df.columns.difference(['TotalValue', 'rowID'])]
+    Y = df['TotalValue']
+    rf.fit(X, Y)
+    feature_importances = pd.DataFrame(rf.feature_importances_,
+                                   index = X.columns,
+                                    columns=['importance'])
+    rf.fit(df[feature].values.reshape(-1, 1), df['TotalValue'])
+    feature_coef = feature_importances.loc[feature]
+    feature_score = rf.predict(df[feature].values.reshape(-1, 1)) * feature_coef.values[0]
+    return feature_score
 
-def personal_listings(price_wt, personal_scores):
+def rf_score(price_wt, df, personal_wt):
+    rf_score = price_wt * df['TotalValue']
+    for feature in personal_wt.keys():
+        rf_score += rf_feature_score(df, feature) * personal_wt[feature]
+    return rf_score
+
+def personal_listings_rf(price_wt, personal_scores):
     personal_dict = {}
-    personal_wt = []
+    personal_wt = {}
     
     df_transform = pd.read_csv('df_transform_July2016.csv')
     df = pd.read_csv('df_integrated.csv', sep=';')
@@ -79,25 +84,23 @@ def personal_listings(price_wt, personal_scores):
                      'walkscore', 'transit_score',  'closest_schools', 'groceries', 'parks']
 
     for i in range(len(personal_scores)):
-        if personal_scores[i] != 0:
-            personal_dict[personal_features[i]] = personal_scores[i]
-        personal_dict[personal_features[i]] = personal_scores[i]     
+        personal_dict[personal_features[i]] = personal_scores[i]
     for f in df_features:
         if f in personal_dict.keys():
-            personal_wt.append(personal_dict[f] / 100)
+            personal_wt[f] = personal_dict[f] / 100
         else:
-            personal_wt.append(0)
+            personal_wt[f] = 0
             
-    X = df_transform[df_features]
+    rf_scores = rf_score(price_wt, df_transform, personal_wt)
     for i in tqdm(df.index):
-        df.loc[i, 'scores'] = price_wt * df_transform.loc[i, 'TotalValue'] + poly_personal(X, np.array(personal_wt), i)
+        df.loc[i, 'rf_scores'] = rf_scores[i]
         
-    return df.sort_values(by=['scores'], ascending=False)
+    return df.sort_values(by=['rf_scores'], ascending=False)
 
 def get_top10():
-    price_wt = 0.3 # to be tuned in model evaluation
+    price_wt = 0.01 # to be tuned in model evaluation
     username, user_scores = get_user_scores()
-    personal_df = personal_listings(price_wt, user_scores)
+    personal_df = personal_listings_rf(price_wt, user_scores)
     top10 = personal_df['Post_ID'].astype(str)[:10].values
     return (username, top10)
 
@@ -109,6 +112,5 @@ url = 'http://amronline.net:9000/user/' + username + '?rank_01=' + top10[0] +'&r
         '&rank_09=' + top10[8] + '&rank_10=' + top10[9]
         
 r = requests.put(url)
-# if r.status_code != 200:
-#     print (r.status_code)
+
 print (username, top10)
