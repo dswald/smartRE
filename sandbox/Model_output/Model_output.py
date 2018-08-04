@@ -123,7 +123,7 @@ def personal_listings_rf(price_wt, personal_scores, filter_answers):
     return df.sort_values(by=['rf_scores'], ascending=False)
 
 def get_top10():
-    price_wt = 0.01 # to be tuned in model evaluation
+    price_wt = 6.7 # best top accuracy
     username, user_scores, filter_answers = get_user_scores()
     personal_df = personal_listings_rf(price_wt, user_scores, filter_answers)
     top10 = personal_df['Post_ID'].astype(str)[:10].values
@@ -131,7 +131,7 @@ def get_top10():
 
 username, top10 = get_top10()
 # send PUT request
-url = 'http://amronline.net:9000/user/' + username + '?rank_01=' + top10[0] +'&rank_02=' + top10[1] +\
+url = 'http://127.0.0.1:5000/user/' + username + '?rank_01=' + top10[0] +'&rank_02=' + top10[1] +\
         '&rank_03=' + top10[2] + '&rank_04=' + top10[3] + '&rank_05=' + top10[4] +\
         '&rank_06=' + top10[5] + '&rank_07=' + top10[6] + '&rank_08=' + top10[7] +\
         '&rank_09=' + top10[8] + '&rank_10=' + top10[9]
